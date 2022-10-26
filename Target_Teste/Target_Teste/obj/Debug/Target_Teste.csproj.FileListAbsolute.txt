@@ -1,0 +1,52 @@
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.AssemblyReference.cache
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.SuggestedBindingRedirects.cache
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Menu.resources
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Teste.resources
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Properties.Resources.resources
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.GenerateResource.cache
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe.config
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\bin\Debug\Target_Teste.pdb
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.exe
+E:\Projetos Visual Studio Paulo\Target_Teste\Target_Teste\obj\Debug\Target_Teste.pdb
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe.config
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\bin\Debug\Target_Teste.pdb
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Menu.resources
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Teste.resources
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.exe
+C:\Users\Usuario\Desktop\Target_Teste\Target_Teste\obj\Debug\Target_Teste.pdb
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe.config
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.pdb
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Menu.resources
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.GenerateResource.cache
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.exe
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.pdb
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo\Desktop\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe.config
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.exe
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Target_Teste.pdb
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Frm_Menu.resources
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.exe
+C:\Users\Usuario\Desktop\Target_TOO\Target_TOO\Target_Teste\Target_Teste\obj\Debug\Target_Teste.pdb
