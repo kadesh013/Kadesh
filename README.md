@@ -1,1 +1,7 @@
-# Kadesh
+Olá, bom dia/tarde/noite, tudo bem?
+
+Não tive tempo de tratar todas as exceções entre demais coisas, estava com medo do teste encerrar.
+
+Por favor se puder deixar a pasta dados na raiz C: e utiizar letras no textbox somente quando for utilizar a função de inversão/reverse, isso evitara que o programa dê crash!
+
+Muito obrigado =)
